@@ -24,13 +24,5 @@
 </div>
 <div>
   <h2>Sobre a Next Level Week</h2>
-<p>
-  A Next Level Week (NLW) é um evento online organizado pela Rocketseat de tempos em tempos desde junho de 2020.
 
-  Consiste em uma semana inteira de conteúdo prático sobre programação, utilizado projetos prontos para portfólio que incorporam as últimas e maiores tendências do mercado de Desenvolvimento Web.
-
-  Sua 8ª edição (NLW Return) aconteceu em maio de 2022, com dois caminhos: Origin (nível iniciante) e Impulse (nível avançado).
-
-  Se você quiser saber mais, confira o post do <a href="https://blog.rocketseat.com.br/o-que-e-next-level-week/"> blog da Rocketseat</a> sobre isso.
-</p>
 </div>
