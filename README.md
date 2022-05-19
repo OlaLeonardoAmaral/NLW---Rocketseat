@@ -40,3 +40,11 @@
 </div>  
 
 ---
+
+<h2>
+  Projeto 📖
+</h2>
+
+<p>
+  DoctorCare é uma empresa ficticia, o objetivo do evento NLW Return era criar uma landing page responsiva para todos os tamanhos de tela. Foi aplicado o método "Mobile First", no qual o desenvolvimento parte das versões para dispositivos móveis para então adaptar ao desktop. Além disso, foram mudados diversos aspectos para produzir um website único, diferente do resultado final do #NLW promovido pela Rocketseat.
+</p>
