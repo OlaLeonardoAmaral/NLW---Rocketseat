@@ -12,14 +12,14 @@
     A proposta do projeto é construir uma landing page responsiva de uma empresa fictícia de consulta médica utilizando HTML, CSS e JavaScript
   </p>
   <p>
-    Para acessar o site clique <a href="https://olaleonardoamaral.github.io/doctorcare/">aqui</a>
-  </p>
-  <p>
       Desenvolvimento orientado e conduzido por
     <a href="https://maykbrito.dev/">
       Mayk Brito
     </a>, educador Rocketseat.
   </p>
+<p>
+  Para acessar o site clique <a href="https://olaleonardoamaral.github.io/doctorcare/">aqui</a>
+</p>
 </div>
 
 <br>
