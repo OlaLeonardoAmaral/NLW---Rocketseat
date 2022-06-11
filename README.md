@@ -18,7 +18,7 @@
     </a>, educador Rocketseat.
   </p>
 <p>
-  Para acessar o site clique <a href="https://olaleonardoamaral.github.io/doctorcare/">aqui</a>
+  Para acessar o site <a href="https://olaleonardoamaral.github.io/doctorcare/" target="_blank" real="external">clique aqui</a>
 </p>
 </div>
 
