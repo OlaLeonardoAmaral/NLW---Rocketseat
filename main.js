@@ -64,14 +64,12 @@ function activateMenuAtCurrentSection(section) {
 }
 
 
-
-
-
 function showNavOnScroll() {
+  const navbar = document.querySelector("#navigation");
   if (scrollY > 0) {
-    navigation.classList.add("scroll");
+    navbar.classList.add("scroll");
   } else {
-    navigation.classList.remove("scroll");
+    navbar.classList.remove("scroll");
   }
 }
 
